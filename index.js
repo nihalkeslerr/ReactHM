@@ -13,6 +13,7 @@ async function getData(Number) {
   //  console.log("Post: ",posts);
   const array=[users,posts];
   console.log(array);
+    console.log("Bu bir deneme değişikliğidir.");
 
 }
 
